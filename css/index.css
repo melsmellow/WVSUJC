@@ -38,7 +38,7 @@ div .list-txt {
 }
 
 #preHeader{
-  background-color: white;
+   background-color: white;
 }
 /* end of Content*/
 
@@ -48,3 +48,20 @@ div .list-txt {
 }
 
 /*End of Footer*/
+
+
+/*Education*/
+
+#education{
+  background-color: white;
+   margin-top: 80px;
+}
+/*end of Education*/
+
+
+/*para sa smooth transition*/
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    scroll-behavior: smooth;
+  }
+}
