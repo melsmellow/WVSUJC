@@ -58,6 +58,39 @@ div .list-txt {
 }
 /*end of Education*/
 
+#ict{
+  background-color: white;
+   margin-top: 80px;
+}
+
+#hrst{
+  background-color: white;
+   margin-top: 80px;
+}
+
+#bcm{
+  background-color: white;
+   margin-top: 80px;
+}
+
+#it{
+  background-color: white;
+   margin-top: 80px;
+}
+
+.container {
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;
+}
+
+
+div .curPage {
+   text-decoration: underline;
+  font-size: 25px;
+  color: #DEF2F1;
+}
 
 /*para sa smooth transition*/
 @media (prefers-reduced-motion: no-preference) {
